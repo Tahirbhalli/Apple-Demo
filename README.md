@@ -2,7 +2,7 @@
 
 ![screenshot](./assets/sceenshot.png)
 
-TThis page is duplicate of Apple IPhone5 webiste.
+This is the demo of Apple store, this is done with HTML and CSS.
 
 ## Built With
 
@@ -11,7 +11,7 @@ TThis page is duplicate of Apple IPhone5 webiste.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Tahirbhalli/Apple-Demo/a925fa778e0b7d1749932ded800e847e77ec6c3b/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Tahirbhalli/Apple-Demo/e487ded85e31e02b60a147f6b2b7e777c0c15f84/index.html)
 
 
 ## Authors
