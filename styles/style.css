@@ -1,6 +1,6 @@
 body{
   background-image: url('../assets/78869.jpg');
-  width: 98%;
+  width: 99%;
   background-repeat: no-repeat;
   background-size: 100% 61%;
 }
@@ -53,16 +53,16 @@ nav input{
   height: 100%;;
   background-image: none;
 }
-.mobiles-add{
+.flex-container {
   display: flex;
-  position: relative;
-  width: 100%;
-  margin-top: 9rem;
+  background-color: white;
+  margin-top: 150px;
+  widows: 628px;
 }
-.mobiles-add a{
-  margin-top: 3px;
-  float: left;
-  margin-right: 2px;
+
+.flex-container > div {
+  margin-right:2px;
+  font-size: 30px;
   overflow: hidden;
 }
 .footer-links{
@@ -84,6 +84,7 @@ a{
 }
 .footer-nav{
   display: inline;
+  margin-left: 1rem;
 }
 .footer-nav span:first-child{
 margin-right:1rem ;
@@ -95,4 +96,11 @@ margin-right:1rem ;
 }
 .mar:last-child{
   border: none;
+}
+footer-links ul li{
+  margin-top: 5px;
+}
+.footer-links ul li:last-child{
+  margin-left: 14px;;
+  margin-top: 5px;
 }
