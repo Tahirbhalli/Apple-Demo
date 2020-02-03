@@ -2,7 +2,7 @@
 
 ![screenshot](./assets/sceenshot.png)
 
-The page tries to replicate as much as possible a New York Times Article.
+TThis page is duplicate of Apple IPhone5 webiste.
 
 ## Built With
 
