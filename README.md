@@ -1,6 +1,6 @@
 # Apple-Demo
 
-![screenshot](./assets/Screenshot from 2020-02-04 01-03-12.png)
+![screenshot](./assets/appl.png)
 
 This is the demo of Apple store, this is done with HTML and CSS.
 
