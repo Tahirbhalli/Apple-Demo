@@ -1,6 +1,6 @@
 # Apple-Demo
 
-![screenshot](./img/screenshot.png)
+![screenshot](./assets/sceenshot.png)
 
 The page tries to replicate as much as possible a New York Times Article.
 
@@ -11,7 +11,7 @@ The page tries to replicate as much as possible a New York Times Article.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/adamclasic/Positioning-and-floating/a32ad8e9412d9f57437c5bb8b5313fec2a8280c9/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Tahirbhalli/Apple-Demo/a925fa778e0b7d1749932ded800e847e77ec6c3b/index.html)
 
 
 ## Authors
