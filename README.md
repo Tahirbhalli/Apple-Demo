@@ -1,6 +1,6 @@
 # Apple-Demo
 
-![screenshot](./assets/appl.png)
+![screenshot](./assets/scre.png)
 
 This is the demo of Apple store, this is done with HTML and CSS.
 
@@ -11,7 +11,7 @@ This is the demo of Apple store, this is done with HTML and CSS.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Tahirbhalli/Apple-Demo/2689f6b7cc75a986ddbe7407e6cf09222c946d19/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Tahirbhalli/Apple-Demo/75083dd5d742c41709bd7141513861e7d412b4b4/index.html)
 
 
 ## Authors
