@@ -1,0 +1,111 @@
+body{
+  background-image: url('https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg');
+  width: 99%;
+  background-repeat: no-repeat;
+  background-position: 50% 144%;
+}
+nav{
+  width:fit-content;
+  margin-top: 5rem;
+  margin-left: 22rem;
+  height: 26px;
+  align-items: center;
+  background-image: linear-gradient(gray 45%,#333,#333);
+}
+nav a{
+  bottom: -2px;
+  position: relative;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+  border-right: 1px solid rgb(44, 6, 6);
+}
+nav input{
+  border-radius: 25px;
+  opacity: 50%;
+  background-image: linear-gradient(gray 45%,#333,#333);
+  margin-top: 2px;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+nav input::placeholder{
+  color: white;
+}
+.story{
+  margin-top: 2rem;;
+  text-align: center;
+  color: white;
+  font-weight: lighter;
+}
+.story p{
+  font-size: 122%;
+  padding-left: 10px;
+}
+.story span{
+  bottom: 5px;
+  font-size: x-large;
+
+}
+footer{
+  width: 100%;
+  /*margin-left: -8px;*/
+  background-color: white;
+  background-image: none;
+  margin-top: 2.8rem;
+  height: 100%;;
+  background-image: none;
+}
+.flex-container {
+  display: flex;
+  background-color: white;
+  margin-top: 150px;
+  widows: 100%;
+}
+
+.flex-container > div {
+  margin-right:2px;
+  font-size: 30px;
+  overflow: hidden;
+}
+.footer-links{
+  margin-top: 10px;
+  font-size: 80%;
+}
+ul{
+  margin-left: 4rem;
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  
+}
+.line{
+  border-left: 1px solid black;
+  padding-left: 5px;;
+}
+.footer-nav{
+  display: inline;
+  margin-left: 1rem;
+}
+.footer-nav span:first-child{
+margin-right:3rem ;
+}
+.mar{
+  border-right: 1px solid rgb(138, 133, 133);
+  padding-right: 5px;
+  padding-left: 5px;
+  color: #08c;
+}
+.mar:last-child{
+  border: none;
+}
+footer-links ul li{
+  margin-top: 5px;
+}
+.footer-links ul li:last-child{
+  margin-left: 14px;;
+  margin-top: 5px;
+}
