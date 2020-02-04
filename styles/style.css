@@ -14,7 +14,7 @@ nav{
   background-image: linear-gradient(gray 45%,#333,#333);
 }
 nav a{
-  bottom: -4px;
+  bottom: -2px;
   position: relative;
   color: white;
   padding-left: 15px;
@@ -25,7 +25,8 @@ nav a{
 nav input{
   border-radius: 25px;
   opacity: 50%;
-  background-color: rgb(39,24,13);
+  background-image: linear-gradient(gray 45%,#333,#333);
+  /*background-color: rgb(39,24,13);*/
   margin-top: 2px;
   color: white;
   padding-left: 15px;
