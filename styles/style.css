@@ -26,11 +26,13 @@ nav input{
   border-radius: 25px;
   opacity: 50%;
   background-image: linear-gradient(gray 45%,#333,#333);
-  /*background-color: rgb(39,24,13);*/
   margin-top: 2px;
   color: white;
   padding-left: 15px;
   padding-right: 15px;
+}
+nav input::placeholder{
+  color: white;
 }
 .story{
   margin-top: 2rem;;
