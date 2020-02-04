@@ -12,7 +12,6 @@ nav{
   height: 26px;
   align-items: center;
   background-image: linear-gradient(gray 45%,#333,#333);
-  /*background-color: rgb(39, 24, 13);*/
 }
 nav a{
   bottom: -4px;
