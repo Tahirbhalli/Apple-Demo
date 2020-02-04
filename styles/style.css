@@ -10,7 +10,7 @@ nav{
   margin-left: 22rem;
   height: 26px;
   align-items: center;
-  background: rgb(39,24,13) no-repeat;
+  background-image: linear-gradient(gray 45%,#333,#333);
   /*background-color: rgb(39, 24, 13);*/
 }
 nav a{
