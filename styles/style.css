@@ -24,7 +24,8 @@ nav a{
 }
 nav input{
   border-radius: 25px;
-  background-image: linear-gradient(rgb(39,24,13));
+  opacity: 50%;
+  background-color: rgb(39,24,13);
   margin-top: 2px;
   color: white;
   padding-left: 15px;
