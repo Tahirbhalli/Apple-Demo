@@ -10,7 +10,8 @@ nav{
   margin-left: 22rem;
   height: 26px;
   align-items: center;
-  background-color: rgb(39, 24, 13);
+  background: rgb(39,24,13) no-repeat;
+  /*background-color: rgb(39, 24, 13);*/
 }
 nav a{
   bottom: -4px;
@@ -57,7 +58,7 @@ footer{
   display: flex;
   background-color: white;
   margin-top: 150px;
-  widows: 628px;
+  widows: 100%;
 }
 
 .flex-container > div {
