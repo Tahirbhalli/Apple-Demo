@@ -3,6 +3,7 @@ body{
   width: 99%;
   background-repeat: no-repeat;
   background-size: 100% 61%;
+  background-position: 50% 125%
 }
 nav{
   width:fit-content;
