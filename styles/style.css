@@ -50,7 +50,7 @@ footer{
   /*margin-left: -8px;*/
   background-color: white;
   background-image: none;
-  margin-top: 3rem;
+  margin-top: 2.8rem;
   height: 100%;;
   background-image: none;
 }
@@ -94,6 +94,7 @@ margin-right:3rem ;
   border-right: 1px solid rgb(138, 133, 133);
   padding-right: 5px;
   padding-left: 5px;
+  color: #08c;
 }
 .mar:last-child{
   border: none;
