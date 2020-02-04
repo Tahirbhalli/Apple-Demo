@@ -3,7 +3,7 @@ body{
   width: 99%;
   background-repeat: no-repeat;
   
-  background-position: 50% 125%
+  background-position: 50% 148%
 }
 nav{
   width:fit-content;
@@ -52,7 +52,7 @@ footer{
   /*margin-left: -8px;*/
   background-color: white;
   background-image: none;
-  margin-top: 5.8rem;
+  margin-top: 2.8rem;
   height: 100%;;
   background-image: none;
 }
